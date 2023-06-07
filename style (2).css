@@ -6,5 +6,10 @@
     border-bottom: 1px;
     margin: 40px;
     padding-bottom: 9px;
-    
+}
+.travel_mainDiv img{
+    border: 1px solid lightgrey;
+}
+.travel_mainDiv h5 , .travel_mainDiv p{
+    margin: 20px;
 }
